@@ -57,6 +57,14 @@ APP 6: LOL_CAT
 - File / Folder name management
 
 APP 7: WIZARD GAME
+- Classes 
+- Initializers
+- Inheritance
+- Magic nethods
+- Fields
+- Initializer chaining
+- Duck typing
+- Polymorphism
 
 APP 8: FILE SEARCH APP
 - yield / yield from
