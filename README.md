@@ -12,6 +12,14 @@ APP 1: HELLO WORLD
 - Input
 
 APP 2: NUMBER GUESS GAME
+- Boolean statements
+- while loops 
+- if / else if
+- type conversion
+- functions(basics)
+- code blocks
+- string formatting
+- truthiness
 
 APP 3: BIRTHDAY
 
