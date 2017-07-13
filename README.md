@@ -17,8 +17,8 @@ APP 6: LOL_CAT
 APP 7: WIZARD GAME
 
 APP 8: FILE SEARCH APP
-    - yield / yield from
-    - Recursion
-    - Path operations
-    - String searching
-    - Generator methods
+- yield / yield from
+- Recursion
+- Path operations
+- String searching
+- Generator methods
