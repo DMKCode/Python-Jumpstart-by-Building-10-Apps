@@ -51,6 +51,10 @@ APP 5: WEATHER CLIENT
 - named tuples
 
 APP 6: LOL_CAT
+- HTTP clients
+- Subprocesses
+- Binary files
+- File / Folder name management
 
 APP 7: WIZARD GAME
 
