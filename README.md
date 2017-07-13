@@ -29,6 +29,15 @@ APP 3: BIRTHDAY
 - Time spans
 
 APP 4: JOURNAL LOGGER
+- Multiple files 
+- Complex conditionals
+- Live templates
+- File I/O
+- OS Independent path management
+- __name__
+- Order independent methods
+- for-in loops
+- doc strings
 
 APP 5: WEATHER CLIENT
 
