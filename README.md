@@ -22,6 +22,11 @@ APP 2: NUMBER GUESS GAME
 - truthiness
 
 APP 3: BIRTHDAY
+- Return values (functions)
+- Dates 
+- Time
+- Parameters (functions)
+- Time spans
 
 APP 4: JOURNAL LOGGER
 
