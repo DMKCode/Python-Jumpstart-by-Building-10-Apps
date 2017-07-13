@@ -40,6 +40,15 @@ APP 4: JOURNAL LOGGER
 - doc strings
 
 APP 5: WEATHER CLIENT
+- External packages
+- PyPI pip
+- Beautiful Soup
+- HTTP clients
+- tuples
+- requests
+- screen scrapping
+- tuples
+- named tuples
 
 APP 6: LOL_CAT
 
