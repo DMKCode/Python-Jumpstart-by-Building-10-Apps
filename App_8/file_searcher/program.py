@@ -15,8 +15,6 @@ def main():
     search_folders(folder, text)
 
 
-
-
 def print_header():
     print('--------------------------------------------')
     print('        FILE SEARCHER APP')
